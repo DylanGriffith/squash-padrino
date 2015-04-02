@@ -1,6 +1,6 @@
 # Squash::Padrino
 
-Deprecated! Use [squash-rack](https://github.com/DylanGriffith/squash-rack)
+This gem is **Deprecated**! Use [squash-rack](https://github.com/DylanGriffith/squash-rack)
 
 Integrates [squash](https://github.com/SquareSquash/web) logging into your
 padrino apps.
